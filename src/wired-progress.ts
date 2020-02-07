@@ -21,7 +21,7 @@ export class WiredProgress extends WiredBase {
         position: relative;
         width: 400px;
         height: 42px;
-        font-family: sans-serif;
+        font-family: var(--wired-progress-font-family, sans-serif);
       }
       .labelContainer {
         display: flex;

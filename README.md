@@ -48,5 +48,7 @@ Use it in your web page:
 
 **--wired-progress-color** Color of the progress bar. Default is *rgba(0, 0, 200, 0.8)*.
 
+**--wired-progress-font-family** Font family of the label. Default is *sans-serif*
+
 ## License
 [MIT License](https://github.com/wiredjs/wired-elements/blob/master/LICENSE) (c) [Preet Shihn](https://twitter.com/preetster)
